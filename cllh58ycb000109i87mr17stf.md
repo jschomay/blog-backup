@@ -4,6 +4,7 @@ datePublished: Sun Jun 04 2023 22:17:32 GMT+0000 (Coordinated Universal Time)
 cuid: cllh58ycb000109i87mr17stf
 slug: observations-on-using-replits-ai-coding-tool-from-an-experienced-coder-3dd7d0146401
 canonical: https://medium.com/@jschomay/observations-on-using-replits-ai-coding-tool-from-an-experienced-coder-3dd7d0146401
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1698591751443/e04e603b-fba8-499f-b0ab-0591ceeed869.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1692397482827/ef087931-cd10-4ddc-a1d6-d1adfa3a73c3.webp
 tags: ai, pair-programming, coding, replit, ai-tools
 
